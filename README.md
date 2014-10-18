@@ -1,7 +1,7 @@
 FantasyClipboard
 ================
 
-A chrome extension to copy your fantasy team from Yahoo! to plain text. 
+A chrome extension to copy your fantasy team from ESPN to plain text. 
 I created this extension because the process of copying and pasting my
 roster for Reddit was tedious.
 
