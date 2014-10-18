@@ -25,7 +25,7 @@ function getTeam (tab) {
     var team = response.data;
     var mstring = ""
     for (var i = 0; i < team.length; i++) {
-      mstring += "* " + (team[i].name + " (" + team[i].position + ") vs " + team[i].opponent) + "  \r\n";
+      mstring += "* " + (team[i].name + " " + team[i].position + " vs " + team[i].opponent) + "  \r\n";
     }
     copyToClipboard(mstring);
     alert("Your team has been copied to the clipboard!");

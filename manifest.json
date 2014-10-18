@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "Fantasy Clipper",
+  "name": "Fantasy Clipper ESPN",
   "version": "1.0",
   "description": "Copy your Fantasy players to the clipboard.",
 
@@ -15,7 +15,7 @@
   },
   
   "permissions": [
-    "http://football.fantasysports.yahoo.com/",
+    "http://games.espn.go.com/",
     "clipboardRead",
     "clipboardWrite"
     ]
